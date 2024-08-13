@@ -1,0 +1,657 @@
+﻿  BuyVIPDlg.cpp
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\BuyVIPDlg.cpp(49,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SignInDlg.cpp
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\SignInDlg.cpp(51,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  MFCApplication_20240607_cppTeamWorkView.cpp
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1308,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1310,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1810,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1826,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1839,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1844,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1852,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1854,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(1856,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2608,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2624,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2637,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2642,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2650,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2652,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWorkView.cpp(2654,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+BinInsertSortzDig.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BinInsertSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+bubbleSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyAccountDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+BuyVIPDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+chaDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ChildFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+CTeamWorkDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+deldlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FileReadDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByName.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+FindPointByNumDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+heapSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+InsertSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberPasswordDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+IsRememberVIPKeyDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MainFrm.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+mergeSortDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWork.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkDoc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MFCApplication_20240607_cppTeamWorkView.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+MultiKeywordSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+pch.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForThreeDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+PointCalculateForTwoDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+quickSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+radixSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SelectSortDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+ShellSortzDig.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl DecryptPassword(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?DecryptPassword@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV12@H@Z) 已在 BuyVIPDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl EncryptPassword(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int &)" (?EncryptPassword@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV12@AEAH@Z) 已在 BuyVIPDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+SignInDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "unsigned long (* colors)[51]" (?colors@@3PAY0DD@KA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "bool isOpenFile" (?isOpenFile@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "bool isSignIn" (?isSignIn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "bool isBuyVIP" (?isBuyVIP@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "bool isRememberPassword" (?isRememberPassword@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "bool isRememberVIPKey" (?isRememberVIPKey@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "int nEncryptUsername" (?nEncryptUsername@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "int nEncryptPassword" (?nEncryptPassword@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "int nEncryptVIPKey" (?nEncryptVIPKey@@3HA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "double defaultFindNumX" (?defaultFindNumX@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "double defaultFindNumY" (?defaultFindNumY@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "double defaultFindNumZ" (?defaultFindNumZ@@3NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "bool isAfxMessageBoxOn" (?isAfxMessageBoxOn@@3_NA) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isOpenFileMsg" (?isOpenFileMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isSignInMsg" (?isSignInMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > isBuyVIPMsg" (?isBuyVIPMsg@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberUsername" (?rememberUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberPassword" (?rememberPassword@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > rememberVIPKey" (?rememberVIPKey@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > mainUsername" (?mainUsername@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+UserSetRGBDlg.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > defaultPointName" (?defaultPointName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已在 AddPointDlg.obj 中定义；已忽略第二个定义
+D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\x64\Debug\MFCApplication_20240607_cppTeamWork.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  MFCApplication_20240607_cppTeamWork.vcxproj -> D:\c_language_code\whu_2_lishuang\MFCApplication_20240607_cppTeamWork\MFCApplication_20240607_cppTeamWork\x64\Debug\MFCApplication_20240607_cppTeamWork.exe
