@@ -1,4 +1,4 @@
-﻿
+
 // MFCApplication_20240607_cppTeamWorkDoc.h: CMFCApplication20240607cppTeamWorkDoc 类的接口
 //
 
@@ -43,13 +43,13 @@ int nEncryptPassword;
 int nEncryptVIPKey;
 string mainUsername;
 
-static string findName = "";
-string defaultPointName = "";
 
-//初始化的默认数据，可以用来做查询记忆
+//初始化的默认数据，可以用来实现对用户输入的数据的记忆功能
 double defaultFindNumX = 0.0;
 double defaultFindNumY = 0.0;
 double defaultFindNumZ = 0.0;
+string defaultPointName = "";
+
 
 bool isAfxMessageBoxOn = true;
 
