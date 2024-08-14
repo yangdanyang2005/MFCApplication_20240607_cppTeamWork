@@ -48,7 +48,7 @@ string EncryptPassword(const string& password, int& n)
 {
 	srand(time(0)); // 初始化随机数种子
 	string encrypted;
-	n = rand() % 10; // 随机生成一个偏移量
+	n = - rand() % 10; // 随机生成一个偏移量，注意参照ASCII码表确认可以位移的区间
 	for (char c : password)
 	{
 		encrypted += c + n; // 简单的字符偏移
