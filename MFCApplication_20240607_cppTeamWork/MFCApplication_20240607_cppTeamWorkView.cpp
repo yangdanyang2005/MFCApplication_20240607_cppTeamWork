@@ -1,4 +1,4 @@
-﻿
+
 // MFCApplication_20240607_cppTeamWorkView.cpp: CMFCApplication20240607cppTeamWorkView 类的实现
 //
 
@@ -1408,10 +1408,43 @@ CMFCApplication20240607cppTeamWorkView::CMFCApplication20240607cppTeamWorkView()
 	//SetTimer(1, 1000, NULL);// 设置定时器，每隔1000毫秒（1秒）更新一次时间
 	//SYSTEMTIME stm;
 	//GetLocalTime(&stm);
+
+	ifstream inFile("data/user_remember_find_point_name.dat", ios::in | ios::binary);
+	getline(inFile, defaultPointName);
+	inFile.close();
+
+	ifstream inFile2("data/user_remember_find_point_num.dat", ios::in | ios::binary);
+	inFile2 >> defaultFindNumX >> defaultFindNumY >> defaultFindNumZ;
+	inFile2.close();
+
+	ifstream inFile3("data/user_remember_file_path.dat", ios::in | ios::binary);
+	string filePathStr = filePath;
+	getline(inFile3, filePathStr);
+	inFile3.close();
 }
 CMFCApplication20240607cppTeamWorkView::~CMFCApplication20240607cppTeamWorkView()
 {
 	//KillTimer(1);// 销毁定时器
+
+	//保存用户输入的数据文件
+	ofstream outFile("data/user_remember_find_point_num.dat", ios::out | ios::trunc | ios::binary);
+	if (outFile.is_open())
+	{
+		outFile << defaultFindNumX << endl << defaultFindNumY << endl << defaultFindNumZ << endl;
+		outFile.close();
+	}
+	ofstream outFile2("data/user_remember_find_point_name.dat", ios::out | ios::trunc | ios::binary);
+	if (outFile2.is_open())
+	{
+		outFile2 << defaultPointName;
+		outFile2.close();
+	}
+	ofstream outFile3("data/user_remember_file_path.dat", ios::out | ios::trunc | ios::binary);
+	if (outFile3.is_open())
+	{
+		outFile3 << filePath;
+		outFile3.close();
+	}
 }
 BOOL CMFCApplication20240607cppTeamWorkView::PreCreateWindow(CREATESTRUCT& cs)
 {
