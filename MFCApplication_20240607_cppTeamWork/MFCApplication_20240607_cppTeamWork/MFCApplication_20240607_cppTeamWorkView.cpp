@@ -1,4 +1,4 @@
-﻿
+
 // MFCApplication_20240607_cppTeamWorkView.cpp: CMFCApplication20240607cppTeamWorkView 类的实现
 //
 
@@ -253,7 +253,7 @@ void writePointsToCSV(PointArr R, string strFileName) {
 
 	AfxMessageBox(_T("文件覆写成功！"));
 }
-
+//检查状态函数
 bool checkOpenFile()
 {
 	if (!isSignIn)
@@ -271,7 +271,7 @@ bool checkOpenFile()
 		return true;
 	}
 }
-
+//另存视图函数
 void SaveViewAsImage(CView* pView)
 {
 	CString baseName = _T("view_prtsc");
@@ -309,8 +309,8 @@ void SaveViewAsImage(CView* pView)
 		fileSaveName = dlg.GetPathName();
 	}
 }
-
-void SaveViewImage(CView* pView, const CString& filename)
+//覆存视图函数
+bool SaveViewImage(CView* pView, const CString& filename)
 {
 	// 获取视图的设备上下文
 	CClientDC dc(pView);
@@ -331,12 +331,14 @@ void SaveViewImage(CView* pView, const CString& filename)
 	if (FAILED(hr))
 	{
 		AfxMessageBox(_T("保存图片失败！"));
+		return false;
 	}
 
 	//记住这次保存文件的路径
 	fileSaveName = filename;
+	return true;
 }
-
+//生成顺序标志化保存视图的文件的文件名函数
 CString GenerateUniqueFilename(const CString& directory, const CString& baseName, const CString& extension) {
 	CString filename;
 
@@ -1603,6 +1605,16 @@ CMFCApplication20240607cppTeamWorkView::CMFCApplication20240607cppTeamWorkView()
 	}
 	inFile3.close();
 
+	//用于读取上一次保存的文件路径
+	ifstream inFile4("user_data/user_remember_save_png_file_path.dat", ios::in | ios::binary);
+	if (inFile4.is_open())
+	{
+		string filePathStr;
+		getline(inFile4, filePathStr);
+		fileSaveName = filePathStr;
+	}
+	inFile4.close();
+
 	//用于自动登录
 	{
 		ifstream inFileAutoLogin("user_data/user_auto_login.dat", ios::in | ios::binary);
@@ -1703,6 +1715,12 @@ CMFCApplication20240607cppTeamWorkView::~CMFCApplication20240607cppTeamWorkView(
 	{
 		outFile3 << filePath;
 		outFile3.close();
+	}
+	ofstream outFile4("user_data/user_remember_save_png_file_path.dat", ios::out | ios::trunc | ios::binary);
+	if (outFile4.is_open())
+	{
+		outFile4 << fileSaveName;
+		outFile4.close();
 	}
 }
 BOOL CMFCApplication20240607cppTeamWorkView::PreCreateWindow(CREATESTRUCT& cs)
@@ -2864,11 +2882,16 @@ void CMFCApplication20240607cppTeamWorkView::OnSignIn()
 	{
 		isSignIn = true;
 	}
+	else
+	{
+		isSignIn = false;
+	}
+
 	flag = -1;
 	Invalidate();
 }
 
-//系统“打开”方式读文件
+//使用系统对话框打开并读取文件
 void CMFCApplication20240607cppTeamWorkView::OnFileOpen()
 {
 	// TODO: 在此添加命令处理程序代码
@@ -2981,6 +3004,11 @@ void CMFCApplication20240607cppTeamWorkView::OnBuyVIPkey()
 	{
 		isBuyVIP = true;
 	}
+	else
+	{
+		isBuyVIP = false;
+	}
+
 	flag = -1;
 	Invalidate();
 }
@@ -3113,12 +3141,12 @@ void CMFCApplication20240607cppTeamWorkView::OnFileSave()
 			if (dlg.isConfirmOverwrite)
 			{
 				SaveViewImage(this, fileSaveName.c_str());//直接保存
-			}
 
-			// 显示保存成功的消息
-			CString msg;
-			msg.Format(_T("当前视图界面截屏文件已保存为：\n%s"), fileSaveName.c_str());
-			MessageBox(msg);
+				// 显示保存成功的消息
+				CString msg;
+				msg.Format(_T("当前视图界面截屏文件已保存为：\n%s"), fileSaveName.c_str());
+				MessageBox(msg);
+			}
 		}
 		else
 		{
@@ -3133,12 +3161,13 @@ void CMFCApplication20240607cppTeamWorkView::OnFileSave()
 			CString filename = GenerateUniqueFilename(directory, baseName, extension);
 
 			// 保存图像
-			SaveViewImage(this, filename);
-
-			// 显示保存成功的消息
-			CString msg;
-			msg.Format(_T("当前视图界面截屏文件已保存为：\n%s"), filename);
-			MessageBox(msg);
+			if (SaveViewImage(this, filename))
+			{
+				// 显示保存成功的消息
+				CString msg;
+				msg.Format(_T("当前视图界面截屏文件已保存为：\n%s"), filename);
+				MessageBox(msg);
+			}
 		}
 	}
 
