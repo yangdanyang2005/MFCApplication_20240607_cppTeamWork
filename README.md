@@ -67,7 +67,7 @@
 ---
 # 引用说明
 如果您在您的研究或项目中使用了本软件，请引用以下信息：<br>
-Yang, Danyang. "遥感应用软件设计课程C++ MFC大作业." 武汉大学，2024年。联系邮箱：[yangdanyang@whu.edu.com](mailto:yangdanyang@whu.edu.com)。<br>
+Yang Danyang. "遥感应用软件设计课程C++ MFC大作业." 武汉大学，2024年。联系邮箱：[yangdanyang@whu.edu.com](mailto:yangdanyang@whu.edu.com)。<br>
 在引用本软件或使用相关代码时，请注明本软件作者以及相关版本信息，以尊重版权及知识产权。
 
 ---
